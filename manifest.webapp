@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "name": "Periodico Elector Digital ",
+  "description": "Noticias del  Departamento de Cundinamarca  Colombia",
+  "launch_path": "index.php",
+  "icons": {
+        "128": "ico_128.png"
+     },
+  "developer": {
+    "name": "camilo lizarazo ",
+    "url": "http://twitter.com/kalx23"
+  }
+}
